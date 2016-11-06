@@ -1,0 +1,16 @@
+div {
+	margin: 200px;
+	padding: 200px;
+	text-align: center;
+	background-color: grey;
+  border-radius: 20px;
+  font-family: "Helvetica", "Arial", "san-serif";
+
+
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 60px;
+}
